@@ -1,0 +1,14 @@
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.deps.json
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.runtimeconfig.json
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.runtimeconfig.dev.json
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.dll
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.pdb
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.csprojAssemblyReference.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.csproj.CoreCompileInputs.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.RazorAssemblyInfo.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.RazorAssemblyInfo.cs
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.AssemblyInfoInputs.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.AssemblyInfo.cs
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.RazorTargetAssemblyInfo.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.dll
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.pdb

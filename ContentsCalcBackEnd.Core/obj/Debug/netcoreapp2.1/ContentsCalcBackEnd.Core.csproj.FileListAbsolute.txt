@@ -1,0 +1,9 @@
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.deps.json
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.dll
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.pdb
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.csproj.CoreCompileInputs.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.AssemblyInfoInputs.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.AssemblyInfo.cs
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.dll
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.pdb
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Core\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.csprojAssemblyReference.cache

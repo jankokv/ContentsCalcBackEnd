@@ -1,0 +1,12 @@
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.deps.json
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.dll
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.pdb
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.dll
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\bin\Debug\netcoreapp2.1\ContentsCalcBackEnd.Core.pdb
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.csprojAssemblyReference.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.csproj.CoreCompileInputs.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.AssemblyInfoInputs.cache
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.AssemblyInfo.cs
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.csproj.CopyComplete
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.dll
+D:\Nuera\ContentsCalcBackEnd\ContentsCalcBackEnd.Logic\obj\Debug\netcoreapp2.1\ContentsCalcBackEnd.Logic.pdb
