@@ -8,8 +8,6 @@ namespace ContentsCalcBackEnd.Logic.Interfaces
         int? Create(string name, double value, string category);
         ICollection<ContentsCalculatorItem> Read();
         void Delete(int id);
-
         void Update(int id, string name, double value, string category);
-
     }
 }

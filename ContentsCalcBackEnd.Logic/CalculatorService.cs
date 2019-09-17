@@ -3,6 +3,7 @@ using System.Linq;
 using ContentsCalcBackEnd.Core;
 using ContentsCalcBackEnd.Core.Models;
 using ContentsCalcBackEnd.Logic.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace ContentsCalcBackEnd.Logic
 {
@@ -32,7 +33,7 @@ namespace ContentsCalcBackEnd.Logic
         {
             using (var ctx = new CalculatorDbContext())
             {
-                return ctx.ContentsCalculatorItems.ToList();
+                return ctx.ContentsCalculatorItems.Include(x=>x.ContentsCategoryType).ToList();
             }
         }
 

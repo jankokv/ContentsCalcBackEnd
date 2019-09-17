@@ -1,5 +1,6 @@
 ﻿using System;
 using ContentsCalcBackEnd.Logic.Interfaces;
+using ContentsCalcBackEnd.Web.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json.Linq;
@@ -19,8 +20,10 @@ namespace ContentsCalcBackEnd.Web.Controllers
         // GET api/calculator
         [HttpGet]
         public ActionResult Get()
-        {  
-            return Ok(_calculatorService.Read());
+        {
+            var contentsCalculatorItem = _calculatorService.Read();
+            var calculatorModel = contentsCalculatorItem.ToCalculatorModel();
+            return Ok(calculatorModel);
         }
 
         // POST api/calculator
